@@ -17,5 +17,10 @@
 ![archiecture](https://github.com/user-attachments/assets/6564a736-91ea-4159-91b8-f06a8365f651)
 
 
+<img width="1400" height="749" alt="Streamlit" src="https://github.com/user-attachments/assets/472cb9dc-0c1f-4256-bc5c-9800b2cd74fd" />
+
+
 
 # Crypto-ETL-Dashboard-With-Python
+
+
